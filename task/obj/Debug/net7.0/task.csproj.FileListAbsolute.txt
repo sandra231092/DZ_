@@ -1,0 +1,15 @@
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\bin\Debug\net7.0\task.exe
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\bin\Debug\net7.0\task.deps.json
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\bin\Debug\net7.0\task.dll
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\bin\Debug\net7.0\task.pdb
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.dll
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.pdb
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\alex_\OneDrive\Рабочий стол\Учеба\DZ\task\obj\Debug\net7.0\ref\task.dll
